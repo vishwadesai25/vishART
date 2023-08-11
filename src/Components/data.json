@@ -1,0 +1,16 @@
+{
+  "arts": [
+    {
+      "source": {
+        "id": "a1"
+      },
+      "author": "Quinten Massys",
+      "title": "The Adoration of the Magi",
+      "description": "This intentionally claustrophobic composition is characteristic of the Antwerp Mannerist style of the first half of the sixteenth century. Finely wrought goldsmith's work abounds. The caricatured features of the Magi and their retinue reveal the artist’s interest in the exaggerated physiognomic types popularized by Leonardo da Vinci and made available through prints. The highly individualized treatment of the African king reflects the presence of both free and enslaved Black people in Antwerp as a result of trade relations with Portugal.",
+      "url": "https://www.metmuseum.org/art/collection/search/436984?searchField=All&amp;sortBy=Title&amp;ao=on&amp;showOnly=openAccess&amp;ft=artwork&amp;offset=0&amp;rpp=40&amp;pos=1",
+      "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/436984/2178932/main-image",
+      "Dimensions": "40 1/2 x 31 1/2 in. (102.9 x 80 cm)",
+      "classification": " Paintings"
+      
+    }
+  ]}

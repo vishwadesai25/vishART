@@ -1,0 +1,46 @@
+*{
+    font-family: 'Caveat', cursive;
+}
+
+.container2{
+    margin: 30px;
+    color: #012A4A;
+}
+
+a,p{
+    color: #012A4A;
+}
+
+.footer10{
+    margin-left:60px;
+    font-size: x-large;
+    color: #012A4A;
+}
+
+.col h5{
+    margin-right: 160px;
+    font-size: x-large;
+    color: #012A4A;
+}
+
+.nav-link10{
+    font-size: large;
+    margin-top: 0px;
+    color: #012A4A;
+}
+
+.nav-link10 a{
+    color: #427fed;
+}
+
+.text-body-secondary{
+    color: #427fed;
+}
+
+.col a{
+    color: #012A4A;
+}
+
+.col a:hover{
+    color: #A9D6E5;
+}

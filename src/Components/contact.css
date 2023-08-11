@@ -1,0 +1,27 @@
+*{
+    font-family: 'Caveat', cursive;
+    text-align: center;
+}
+
+.contact h1{
+    color: #A9D6E5;
+    margin-top: 30px;
+    background-color: #012A4A;
+    background-position: 20px;
+    border-radius: 10px;
+    width: 300px;
+    padding: 5px;
+    margin-left: 530px;
+}
+
+.contact p{
+    color: #61A5C2;
+    font-size: larger;
+    margin-top: 30px;
+}
+
+.contact li{
+    color: #012A4A;
+    font-size: large;
+    margin-top: 10px;
+}

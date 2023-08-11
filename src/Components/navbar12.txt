@@ -1,0 +1,447 @@
+/* Home */
+
+img.d-block{
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    /* display: block; */
+}
+
+.carousel{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    opacity: 70%;
+}
+
+h5{
+    background-color: #012A4A;
+    background-position: 20px;
+    color: #fff;
+    display: inline;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.p{
+    background-color: #012A4A;
+    background-position: 20px;
+    color: #fff;
+    /* display: inline; */
+    border-radius: 10px;
+    /* padding: 5px; */
+}
+
+.carousel-caption p{
+    margin-top: 10px;
+    background-color: rgb(8, 8, 8);
+    background-position: 20px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+/* search */
+
+.search25{
+    margin-left: 1000px;
+    width:300px;
+height: 50px;
+}
+
+.search25 button{
+    margin-top: 0;
+    /* margin-left: 1000px;
+    width:300px;
+height: 50px; */
+}
+/* navbar */
+
+*{
+    font-family: 'Caveat', cursive;
+}
+
+body {
+    /* padding-bottom: 20px; */
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1579547621700-03c2c337370a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29sb3Vyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.col-md-6{
+    width: 522px
+}
+
+.icon25{
+    /* margin-left: 15px; */
+    font-size: x-large;
+    margin-bottom: 0px;
+}
+
+.nav-link{
+    font-size: xx-small;
+    margin-top: 0px;
+}
+
+.disable25{
+    font-size: large;
+    margin-top: 120px;
+}
+
+.nav-link,.navbar-brand{
+    color: #012A4A;
+}
+
+ul{
+    list-style: none;
+}
+.navbar {
+    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+}  
+
+.custom-navbar{
+    background-color: #ffffff;
+    opacity: 50%;
+}
+
+.btn{
+    background-color: #012A4A;
+    color: #A9D6E5;
+    border-width: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    list-style: none;
+    font-family: 'Caveat', cursive;;
+}
+
+.btn-outline{
+  list-style: none;
+}
+
+.btn:hover{
+    background-color: #A9D6E5;
+    color: #012A4A;
+}
+
+.dropdown{
+    list-style: none;
+}
+
+a.dropdown-item{
+    width: 50px
+}
+
+.d-flex{
+    width: 500px;
+}
+
+.form-control{
+    border-color: #012A4A;
+    text-align: left;
+}
+
+/* Famous */
+  
+  .display-4 .lead {
+    font-family: 'Caveat', cursive;
+    color: #012A4A;
+    text-align: left;
+  }
+  
+  .lead h1 p{
+   align-items: left;
+   padding: 5px 5px;
+   margin-left: 400px;
+  }
+
+  img{
+    width: 300px;
+    height: 200px
+  }
+  
+  .lead{
+    text-align: left;
+  }
+  
+  .card{
+    background-color: #012A4A;
+    width: 400px;
+    height: 350px;
+    margin: 10px;
+    align-items:  center;
+    display: flex
+  }
+  
+.card img{
+    width: 100%;
+    height: 100%
+}
+
+.container25{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+    margin-top:0px;
+    opacity: 50%;
+
+}
+
+.card25{ 
+    width:300px;
+    height: 300px;
+    border-color: #012A4A;
+    border-width: 6px;
+    margin-top: 10px;
+}
+
+.title12{
+  width:1310px;
+  height: 100px;
+  align-items: center;
+  border-color: #012A4A;
+  /* border-width: 6px; */
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  opacity: 50%;
+
+}
+
+  .card-text{
+    margin-left:50px;
+    width: 400px;
+    height: 300px;
+    font-size: small;
+  }
+  
+  .p-4{
+    background-color: #A9D6E5;
+    opacity: 90%;
+
+  }
+  
+  .col,.row,.custom{
+    background-color: #fff;
+    border-radius: 5px;
+    opacity: 90%;
+
+  }
+  
+  .card{
+    background-color: #fff;
+        opacity: 90%;
+
+  }
+  
+  .mb-0{
+    font-family: 'Caveat', cursive;
+  }
+  
+  .custom{
+    background-color: #fff;
+    opacity: 90%;
+
+  }
+  
+  .container1{
+    margin: 20px;
+  }
+  
+  /* .md-6{
+    background-color: #A9D6E5;;
+  }
+  
+  .mb-2{
+    background-color: #A9D6E5;;
+  } */
+  
+  .col-auto img{
+    width: 200px;
+    height: 250px;
+    object-fit: fill;
+  }
+  
+  .blog-header-logo {
+      font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+      font-size: 2.25rem;
+    }
+    
+    .blog-header-logo:hover {
+      text-decoration: none;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Caveat', cursive;/*rtl:Amiri, Georgia, "Times New Roman", serif*/
+    }
+    
+    .flex-auto {
+      flex: 0 0 auto;
+    }
+    
+    .h-250 { height: 250px; }
+    @media (min-width: 768px) {
+      .h-md-250 { height: 250px; }
+    }
+    
+    /* Pagination */
+    .blog-pagination {
+      margin-bottom: 4rem;
+    }
+    
+    /*
+     * Blog posts
+     */
+    .blog-post {
+      margin-bottom: 4rem;
+    }
+    .blog-post-meta {
+      margin-bottom: 1.25rem;
+      color: #727272;
+    }
+  
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+  
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  
+    .b-example-divider {
+      width: 100%;
+      height: 3rem;
+      background-color: rgba(0, 0, 0, .1);
+      border: solid rgba(0, 0, 0, .15);
+      border-width: 1px 0;
+      box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+    }
+  
+    .b-example-vr {
+      flex-shrink: 0;
+      width: 1.5rem;
+      height: 100vh;
+    }
+  
+    .bi {
+      vertical-align: -.125em;
+      fill: currentColor;
+    }
+  
+    .nav-scroller {
+      position: relative;
+      z-index: 2;
+      height: 2.75rem;
+      overflow-y: hidden;
+    }
+  
+    .nav-scroller .nav {
+      display: flex;
+      flex-wrap: nowrap;
+      padding-bottom: 1rem;
+      margin-top: -1px;
+      overflow-x: auto;
+      text-align: center;
+      white-space: nowrap;
+      -webkit-overflow-scrolling: touch;
+    }
+  
+    .btn-bd-primary {
+      --bd-violet-bg: #A9D6E5;
+      --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+  
+      --bs-btn-font-weight: 600;
+      --bs-btn-color: var(--bs-white);
+      --bs-btn-bg: var(--bd-violet-bg);
+      --bs-btn-border-color: var(--bd-violet-bg);
+      --bs-btn-hover-color: var(--bs-white);
+      --bs-btn-hover-bg: #A9D6E5;
+      --bs-btn-hover-border-color: #012A4A;
+      --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+      --bs-btn-active-color: var(--bs-btn-hover-color);
+      --bs-btn-active-bg: #012A4A;
+      --bs-btn-active-border-color: #012A4A;
+    }
+    .bd-mode-toggle {
+      z-index: 1500;
+    }
+  
+    .album{
+      margin-top: 40px;
+    }
+
+    /* Canvas */
+
+    /* canvas.css */
+
+/* Container for the canvas and buttons */
+.canvas-container {
+  display: flex; /* Display the children (canvas and buttons) in a row */
+  justify-content: space-between; /* Spread the elements apart */
+  align-items: center; /* Center the elements vertically */
+  padding: 20px; /* Add some padding for spacing */
+  border: 1px solid #ccc; /* Add a border around the container */
+  border-radius: 5px; /* Add some border-radius for rounded corners */
+  background-color: #f9f9f9; /* Add a light background color */
+}
+
+.my-canvas {
+  border: 1px solid #012A4A; /* Your canvas border styles */
+  background-color: #ccc;
+}
+
+
+
+.tools {
+  display: flex; /* Display the buttons in a row */
+  margin-left: 200px;
+  align-items: center; /* Center the buttons vertically */
+}
+
+.button123{
+  width: 100px;
+}
+
+.tool-button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px; /* Add some margin between buttons for spacing */
+  padding: 8px 16px; /* Add some padding for button size */
+  font-size: 16px; /* Set the font size */
+  background-color: #468FAF; /* Set the background color */
+  color: #012A4A; /* Set the text color */
+  border: none; /* Remove button border */
+  border-radius: 5px; /* Add some border-radius for rounded corners */
+  cursor: pointer; /* Add a pointer cursor on hover */
+}
+
+/* Add some hover effect on buttons */
+.tool-button:hover {
+  background-color: #024e86;
+}
+
+.size-indicator{
+  color: #468FAF;
+}
+
+@media print {
+  body {
+      background-color: white;
+  }
+}
+
+
+
